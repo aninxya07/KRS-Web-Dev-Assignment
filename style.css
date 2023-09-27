@@ -632,6 +632,7 @@
 }
 
 .box12-d {
+    box-shadow: 0 8px 18px #5FE26C;
     position: relative;
     top: 25px;
 }
